@@ -7,8 +7,8 @@
 
 <body style="background-color: #1E1E1E; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
 
-  <h1 style="color: #61afef; margin-bottom: 10px;">Greetings, Wanderer! 👋 I'm Austin</h1>
-  <h3 style="color: #61afef; margin-bottom: 20px;">Embarking on the Coding Quest in the Enchanted North 🌟</h3>
+  <h1 style="color: #61afef; margin-bottom: 10px;">Hello 👋 I'm Austin!</h1>
+  <h3 style="color: #61afef; margin-bottom: 20px;">Fromt the North, Minneapolis, MN 🌟</h3>
 
   <p style="margin-bottom: 20px;"> <img style="width: 60%; max-width: 400px; border-radius: 8px; box-shadow: 0 0 20px rgba(97, 175, 239, 0.8);" src="https://github-profile-trophy.vercel.app/?username=austtiin" alt="austtiin" /> </p>
 
