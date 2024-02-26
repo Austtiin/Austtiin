@@ -13,10 +13,13 @@
   <p style="margin-bottom: 20px;"> <img style="width: 60%; max-width: 400px; border-radius: 8px; box-shadow: 0 0 20px rgba(97, 175, 239, 0.8);" src="https://github-profile-trophy.vercel.app/?username=austtiin" alt="austtiin" /> </p>
 
   <div style="display: flex; margin-bottom: 30px;">
-    <!-- Add your social media links here -->
-    <a style="color: #61afef; margin: 0 10px; font-size: 24px; text-decoration: none;" href="https://twitter.com/yourtwitterhandle" target="_blank">🐦</a>
-    <a style="color: #61afef; margin: 0 10px; font-size: 24px; text-decoration: none;" href="https://linkedin.com/in/yourlinkedinprofile" target="_blank">🔗</a>
-    <a style="color: #61afef; margin: 0 10px; font-size: 24px; text-decoration: none;" href="https://dev.to/yourdevto" target="_blank">👩‍💻</a>
+    <!-- Replace social links with logos of known languages -->
+    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Logo" />
+    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo" />
+    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5 Logo" />
+    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Logo" />
+    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C# Logo" />
+    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo" />
   </div>
 
   <div style="background-color: #282c36; border-radius: 8px; padding: 20px; margin-bottom: 20px; width: 80%; max-width: 600px;">
