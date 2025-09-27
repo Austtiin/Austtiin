@@ -21,10 +21,6 @@
     <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo" />
   </div>
 
-  <div style="background-color: #282c36; border-radius: 8px; padding: 20px; margin-bottom: 20px; width: 80%; max-width: 600px;">
-    <h3 style="margin-bottom: 10px;">🚀 GitHub Stats:</h3>
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=austtiin&show_icons=true&count_private=true&hide=issues&hide_title=true&theme=radical" alt="GitHub Stats" />
-  </div>
 
   <div style="background-color: #282c36; border-radius: 8px; padding: 20px; margin-bottom: 20px; width: 80%; max-width: 600px;">
     <h3 style="margin-bottom: 10px;">🌟 Top Languages:</h3>
