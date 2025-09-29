@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋 I'm Austin Stephens</h1>
-<h3 align="center">From Minneapolis, MN 🌟 | Computer Science Graduate | Certified FinOps Practitioner & Microsoft Azure Administrator</h3>
+<h3 align="center">From Minneapolis, MN 🌟</h3>
+<h3 align="center">Computer Science Graduate | Certified FinOps Practitioner | Microsoft Azure Administrator</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=austtiin&theme=onedark&margin-w=15&margin-h=15" alt="austtiin trophies" />
