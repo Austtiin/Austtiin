@@ -8,7 +8,8 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 B.S. Computer Science (3.66 GPA) | Rasmussen University  
+- 🎓 B.S. Computer Science | Rasmussen University
+- 💡 A.S Software Application Development | Rasmussen University
 - ☁️ Experienced in **Azure Cloud Optimization, IT Infrastructure, and Cost Management**  
 - 💰 Helped organizations achieve **$250,000+ in annual cloud savings** through **FinOps strategies** (rightsizing, reservations, savings plans)  
 - 🏛️ Supported both **Commercial and Government Azure tenants** with cost modeling, governance, and forecasting  
