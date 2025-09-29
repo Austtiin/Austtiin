@@ -33,11 +33,6 @@
 ---
 
 ### 📜 Certifications  
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQH6dgWklxYevg/article-cover_image-shrink_720_1280/B56ZWFZIKVHoAI-/0/1741699712147?e=2147483647&v=beta&t=z7btbfhPZzeTAjZslneG9qRmaqT3Oq-DcZM24vFF_3I" alt="Azure Administrator Associate" style="width:220px; min-width:180px; max-width:240px; margin:10px; border-radius:8px;" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4N6GdBaDbBcMVQ3E4Bcze__BuTeaPrynmDg&s" alt="FinOps Certified Practitioner" style="width:220px; min-width:180px; max-width:240px; margin:10px; border-radius:8px;" />
-</p>
-
 - **Microsoft Azure Administrator Associate** (Hands-on with **Commercial + Government tenants**)  
 - Microsoft Azure Fundamentals  
 - **FinOps Certified Practitioner** (Cloud Cost Optimization | $250k+ annual savings impact)  
