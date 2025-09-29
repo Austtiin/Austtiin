@@ -1,26 +1,44 @@
-<html lang="en">
+<h1 align="center">Hello 👋 I'm Austin Stephens</h1>
+<h3 align="center">From Minneapolis, MN 🌟 | Computer Science Graduate | Cloud & FinOps Enthusiast</h3>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=austtiin&theme=onedark&margin-w=15&margin-h=15" alt="austtiin trophies" />
+</p>
 
-<body style="background-color: #1E1E1E; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+---
 
-  <h1 style="color: #61afef; margin-bottom: 10px;">Hello 👋 I'm Austin!</h1>
-  <h3 style="color: #61afef; margin-bottom: 20px;">From the North, Minneapolis, MN 🌟</h3>
+### 🚀 About Me  
+- 🎓 B.S. Computer Science (3.66 GPA) | Rasmussen University  
+- ☁️ Experienced in **Azure Cloud Optimization, IT Infrastructure, and Cost Management**  
+- 🏆 Results-driven with proven savings impact on **$1M+ annual cloud spend**  
+- 💡 Passionate about bridging **business needs with technical solutions**  
 
-  <p style="margin-bottom: 20px;"> <img style="width: 60%; max-width: 400px; border-radius: 8px; box-shadow: 0 0 20px rgba(97, 175, 239, 0.8);" src="https://github-profile-trophy.vercel.app/?username=austtiin" alt="austtiin" /> </p>
+---
 
-  <div style="display: flex; margin-bottom: 30px;">
-    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Logo" />
-    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo" />
-    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5 Logo" />
-    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Logo" />
-    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C# Logo" />
-    <img style="margin: 0 10px; width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo" />
-  </div>
+### 🛠️ Technical Skills
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/48/microsoft-azure.png" alt="Azure" />
+</p>
 
-</body>
+---
 
-</html>
+### 📜 Certifications
+- Microsoft: **Azure Administrator Associate**  
+- Microsoft: **Azure Fundamentals**  
+- **FinOps Certified Practitioner**  
+- CJIS: **Privileged Access**  
+
+---
+
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/astephe/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/Austtiin"><img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub"/></a>
+  <a href="mailto:austinstephens103@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
+</p>
