@@ -11,6 +11,7 @@
 - 🎓 B.S. Computer Science (3.66 GPA) | Rasmussen University  
 - ☁️ Experienced in **Azure Cloud Optimization, IT Infrastructure, and Cost Management**  
 - 💰 Helped organizations achieve **$250,000+ in annual cloud savings** through **FinOps strategies** (rightsizing, reservations, savings plans)  
+- 🏛️ Supported both **Commercial and Government Azure tenants** with cost modeling, governance, and forecasting  
 - 🏆 Certified in **Azure Administration & FinOps**, with a focus on driving measurable business impact  
 - 💡 Passionate about bridging **business needs with technical solutions**  
 
@@ -35,7 +36,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4N6GdBaDbBcMVQ3E4Bcze__BuTeaPrynmDg&s" alt="FinOps Certified Practitioner" width="200" style="margin:10px; border-radius:8px;" />
 </p>
 
-- **Microsoft Azure Administrator Associate**  
+- **Microsoft Azure Administrator Associate** (Hands-on with **Commercial + Government tenants**)  
 - Microsoft Azure Fundamentals  
 - **FinOps Certified Practitioner** (Cloud Cost Optimization | $250k+ annual savings impact)  
 - CJIS: Privileged Access  
