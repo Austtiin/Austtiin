@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=austtiin&theme=onedark&margin-w=15&margin-h=15" alt="austtiin trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Austtiin&show_icons=true&theme=dark" />
 </p>
 
 ---
