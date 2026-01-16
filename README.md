@@ -9,10 +9,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&text=Austin%20Stephens&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Austtiin&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Austtiin&theme=dark" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Website-AustinStephens.me-blue?style=for-the-badge" />
