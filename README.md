@@ -20,9 +20,9 @@
 ### 🚀 About Me  
 - 🎓 B.S. Computer Science | Rasmussen University  
 - 💡 A.S Software Application Development | Rasmussen University  
-- ☁️ Specialized in **Azure Cloud Optimization, IT Infrastructure, and Cost Management**  
-- 💰 Drove **$250,000+ in annual cloud savings** using **FinOps strategies**  
-- 🏛️ Supported **Commercial & Government Azure tenants** with cost modeling and governance  
+- ☁️ Worked in **Azure Cloud Optimization, IT Infrastructure, and Cost Management Enviornment**  
+- 💰 Contibuted to **$250,000+ in annual cloud savings** using **FinOps strategies**  
+- 🏛️ Supported **Commercial & Government Azure tenants** with KPIs and Cloud Cost Governance
 - 🏆 Certified in **Azure Administration & FinOps**  
 - 💡 Passionate about turning **technical solutions into real business value**  
 
