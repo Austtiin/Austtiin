@@ -9,6 +9,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=150&section=header&text=Austin%20Stephens&fontSize=40&fontColor=ffffff" />
 </p>
 
+<img src="https://img.shields.io/badge/Azure-Cloud%20Pro-blue?style=flat" />
+<img src="https://img.shields.io/badge/FinOps-Certified-green?style=flat" />
+
 ---
 
 ### 🚀 About Me  
