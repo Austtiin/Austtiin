@@ -3,13 +3,8 @@
 <h3 align="center">Computer Science Graduate | Azure Administrator | FinOps Certified | Cloud Cost Optimization</h3>
 
 <h3 align="center">
-  🌐 <a href="https://AustinStephens.me" target="_blank">AustinStephens.me</a>
+  🌐 <a href="https://AustinStephens.me" target="Https://www.AustinStephens.me">AustinStephens.me</a>
 </h3>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=150&section=header&text=Austin%20Stephens&fontSize=40&fontColor=ffffff" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Austtiin&layout=compact&theme=dark" />
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&text=Austin%20Stephens&fontColor=ffffff" />
 </p>
