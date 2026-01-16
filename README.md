@@ -37,6 +37,7 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/FinOps_Foundation_logo.svg" alt="FinOps" width="60" />
 </p>
 
 ---
@@ -63,4 +64,5 @@
   <a href="https://AustinStephens.me">
     <img src="https://img.icons8.com/color/48/domain.png" alt="Website" />
   </a>
+  
 </p>
