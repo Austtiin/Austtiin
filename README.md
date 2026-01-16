@@ -5,9 +5,8 @@
 <h3 align="center">
   🌐 <a href="https://AustinStephens.me" target="_blank">AustinStephens.me</a>
 </h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Austtiin&show_icons=true&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=150&section=header&text=Austin%20Stephens&fontSize=40&fontColor=ffffff" />
 </p>
 
 ---
