@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/FinOps_Foundation_logo.svg" alt="FinOps" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/FinOps_Foundation_logo.svg](https://images.credly.com/images/08a5010a-0c0a-448c-981e-c116fedd380c/twitter_thumb_201604_image.png" alt="FinOps" width="60" />
 </p>
 
 ---
